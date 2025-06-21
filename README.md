@@ -1,4 +1,6 @@
 ### Asynchronous-Programming-With-SwiftUI-Combine
+> <img width=200 src="https://github.com/user-attachments/assets/95bef7a8-5d2f-4717-b57b-8d562d6e5725">
+> 
 > 📚 `SwiftUI와 Combine을 활용한 비동기 프로그래밍` 책을 읽고
 
 ##
